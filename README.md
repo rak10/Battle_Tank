@@ -7,3 +7,4 @@ This was developed as part of the MOOC "The Unreal Engine Developer Course - Lea
 
 * BT01 Intro and notes
 * BT02 GDD (Game Design Document)
+* BT03 Setting up a Github repository
