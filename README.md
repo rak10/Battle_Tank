@@ -3,8 +3,7 @@ Home brew clone of World of Tanks - a head to head open world battle tank game w
 
 This was developed as part of the MOOC "The Unreal Engine Developer Course - Learn C++ & Make Games" on Udemy. 
 
-## LectureList
+Main Menu:
+![capture2](https://cloud.githubusercontent.com/assets/18660838/24223613/4d233880-0f57-11e7-8935-acd5f16f5172.JPG)
 
-* BT01 Intro and notes
-* BT02 GDD (Game Design Document)
-* BT03 Setting up a Github repository
+
